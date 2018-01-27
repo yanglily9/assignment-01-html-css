@@ -3,7 +3,6 @@ article {
 }
 
 header{
-    width: 100%;
     background-color: aqua;
 }
 
@@ -14,8 +13,6 @@ section.main{
 
 section.sources{
     display: inline-block;
-    border-width: 1px;
-    border-style: solid;
     border-color:aqua;
     margin-left:12.5%;
     margin-top: 10px;
@@ -23,7 +20,5 @@ section.sources{
 }
 
 img{
-    margin-left: 12.5%;
-    margin-right: 12.5%;
     float: left;
 }
